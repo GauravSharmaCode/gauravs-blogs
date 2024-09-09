@@ -18,7 +18,7 @@ const config = {
     return [
       {
         source: '/blogs',
-        destination: '/path-to-your-current-blog', // Replace this with your actual blog path
+        destination: '/', // Replace this with your actual blog path
       },
     ]
   },
